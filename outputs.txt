@@ -95,4 +95,4 @@ tractor.jpg = tractor (96.74%)
 tv.jpg = television (45.27%)
 usb.jpeg = radio (38.70%)
 xbone.jpg = joystick (99.54%)
-zebra.jpg = zebra (96.47%) ž
+zebra.jpg = zebra (96.47%)
